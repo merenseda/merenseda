@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merenseda
 - 👀 I’m interested in robotic & web & mobile development.
-- 🌱 I’m currently learning <kbd>React Native.</kbd>
+- 🌱 I’m currently learning <kbd>React Native</kbd>.
 - 💞️ I want to cooperate with a hydraulic system expert
 - 📫 How to reach me <kbd>mehmterenseda@hotmail.com</kbd>
 - 😄 Pronouns: He/Him
