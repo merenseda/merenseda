@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merenseda
+- 👋 Hi, I’m <kbd>@merenseda</kbd>
 - 👀 I’m interested in <kbd>robotic & web & mobile</kbd> development.
 - 🌱 I’m currently learning <kbd>React Native</kbd>.
 - 💞️ I want to cooperate with a hydraulic system expert
