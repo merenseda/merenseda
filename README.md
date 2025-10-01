@@ -2,7 +2,7 @@
 - 👀 I’m interested in <kbd>robotic & web & mobile</kbd> development.
 - 🌱 I’m currently learning <kbd>React Native</kbd>.
 - 💞️ I want to cooperate with a hydraulic system expert
-- 📫 How to reach me  <kbd>mehmterenseda@hotmail.com</kbd>
+- 📫 How to reach me  <kbd>info@merenseda.com.tr</kbd>
 - 😄 Pronouns:  <kbd>He/Him</kbd>
 
 <!---
